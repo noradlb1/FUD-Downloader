@@ -1,0 +1,53 @@
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\bin\Debug\GoldSrcScheme.exe.config
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\bin\Debug\GoldSrcScheme.exe
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\bin\Debug\GoldSrcScheme.pdb
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\bin\Debug\GoldSrcScheme.xml
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbprojAssemblyReference.cache
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.Resources.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBtn.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.GenerateResource.cache
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.CoreCompileInputs.cache
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.exe
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.xml
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.pdb
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcFrame.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBackground.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcCloseBtn.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcColors.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcTextBox.resources
+C:\Users\Virgílio\source\repos\GoldSrcScheme\GoldSrcScheme\obj\Debug\GoldSrcScheme.Demo.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcTextBox.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcColors.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.Demo.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcFrame.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBackground.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcCloseBtn.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.Resources.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBtn.resources
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\bin\Debug\FUD Downloader.exe.config
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\bin\Debug\FUD Downloader.exe
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\bin\Debug\FUD Downloader.pdb
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\bin\Debug\FUD Downloader.xml
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\FUD Downloader.exe
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\FUD Downloader.xml
+C:\Users\MONSTERMC\Desktop\GoldSrcScheme-master\GoldSrcScheme-master\GoldSrcScheme\obj\Debug\FUD Downloader.pdb
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcTextBox.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcColors.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.Demo.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcFrame.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBackground.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcCloseBtn.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.Resources.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.GoldSrcBtn.resources
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\GoldSrcScheme.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\bin\Debug\FUD Downloader v2.exe.config
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\bin\Debug\FUD Downloader v2.exe
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\bin\Debug\FUD Downloader v2.pdb
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\bin\Debug\FUD Downloader v2.xml
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\FUD Downloader v2.exe
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\FUD Downloader v2.xml
+C:\Users\MONSTERMC\Downloads\FUD-Downloader-main\FUD-Downloader-main\GoldSrcScheme\obj\Debug\FUD Downloader v2.pdb
